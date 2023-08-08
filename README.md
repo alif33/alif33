@@ -1,11 +1,3 @@
-<style>
-  .red {
-    color: red
-  }
-  
-</style>
-
-
 
 <h1 align="center">Hi 👋, I'm Ismail Hosen Alif</h1>
 <h3 align="center">A passionate full-stack, android, ios and blockchain developer from Bangladesh</h3>
